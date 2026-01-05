@@ -47,11 +47,43 @@ Desenvolvedor Fullstack • JavaScript | TypeScript | ReactJS | Node.js
 
 ## 📁 Projetos em Destaque
 
+
+### 🔹 **MyVaccine – Sistema de Controle de Vacinação**
+
+Aplicação desenvolvida para o gerenciamento e acompanhamento de vacinas, permitindo o cadastro, consulta e organização de informações de vacinação.
+
+🔹 Projeto acadêmico com foco em lógica de programação, organização do código e boas práticas.  
+
+🔹 Estrutura pensada para simular um sistema de uso real (saúde pública ou controle pessoal).  
+
+
+🔗 **Repositório:** 
+[https://github.com/LuizAbreu777/myvaccine](https://github.com/LuizAbreu777/myvaccine)
+
+---
+
+### 🔹 **Rede Baiana – Simulador de Infraestrutura de Redes**
+
+Projeto acadêmico que simula uma infraestrutura de redes utilizando estruturas de dados baseadas em grafos, com foco em visualização, conexões e organização da rede.
+
+🔹 Modelagem de redes utilizando grafos.  
+
+🔹 Aplicação de conceitos de algoritmos e estruturas de dados.  
+  
+  
+🔗 **Repositório:** 
+[https://github.com/LuizAbreu777/Rede-baiana](https://github.com/LuizAbreu777/Rede-baiana)
+
+---
+
 ### 🔹 **API REST com Node.js + TypeScript**
 API completa com Express, Prisma e MySQL.  
-CRUD + autenticação + validações.
+CRUD + autenticação + validações.  
 
-🔗 *Em breve no GitHub…*
+🚧 *Em desenvolvimento*  
+
+🔗 **Repositório:** 
+[https://github.com/LuizAbreu777/user-auth-api](https://github.com/LuizAbreu777/user-auth-api).
 
 ---
 
