@@ -91,10 +91,10 @@ CRUD + autenticação + validações.
 Aplicação educacional para demonstração prática dos serviços **Amazon Comprehend** e **Amazon Textract**, integrados em uma arquitetura **Backend Node.js + Frontend React**.  
 
 Inclui:
-- Análise de sentimento e extração de entidades (NLP)
-- OCR de imagens
-- Processamento assíncrono de PDFs via Amazon S3
-- Frontend sem credenciais AWS (boas práticas de segurança)
+🔹 Análise de sentimento e extração de entidades (NLP)
+🔹 OCR de imagens
+🔹 Processamento assíncrono de PDFs via Amazon S3
+🔹 Frontend sem credenciais AWS (boas práticas de segurança)
 
 🎓 *Projeto acadêmico – Seminário AWS*  
 
